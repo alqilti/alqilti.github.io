@@ -1,0 +1,4 @@
+baseURL = "https://alqilti.github.io/"
+locale = 'en-us'
+title = 'al-Qilti'
+theme = "paperMod"
