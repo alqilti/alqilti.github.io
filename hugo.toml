@@ -1,7 +1,7 @@
 baseURL = "https://alqilti.github.io/"
 locale = "en-us"
 title = "al-Qilti"
-theme = "PaperMod"
+theme = "paperMod"
 
 [markup]
   [markup.goldmark]
