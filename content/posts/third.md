@@ -1,6 +1,6 @@
 ---
 title: "Horst Wessel"
-date: 2026-06-22
+date: 2026-07-11
 draft: false
 ---
 
