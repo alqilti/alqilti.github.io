@@ -1,0 +1,35 @@
+---
+title: "Blue-eyed humans have a single, common ancestor."
+date: 2026-07-11
+draft: false
+---
+
+![blue eyes](/images/blue.jpg)
+
+A single genetic mutation that appeared thousands of years ago may explain why millions of people around the world have blue eyes today.
+Research from the University of Copenhagen suggests that blue-eyed individuals share a common ancestor who carried a specific mutation affecting the regulation of the **OCA2 gene**, a gene involved in the production of melanin, the pigment responsible for the color of human eyes, hair, and skin.
+
+Originally, humans most likely had brown eyes, as higher levels of melanin in the iris create darker pigmentation. Between **6,000 and 10,000 years ago**, a mutation occurred in a regulatory region near the OCA2 gene.
+
+![brown eyes](/images/brown.jpg)
+
+This mutation created a genetic "switch" that reduced the amount of melanin produced in the iris. It did not completely disable the OCA2 gene, which would have resulted in a condition such as albinism. Instead, it lowered pigmentation in the eyes, producing the lighter blue coloration seen today.
+
+## A Common Ancestor
+
+Scientists found that blue-eyed individuals share a similar genetic pattern around the region responsible for eye color. This suggests that all blue-eyed people inherited the same mutation from a single ancestral source.
+Professor Hans Eiberg and his team studied mitochondrial DNA from blue-eyed individuals from different populations, including people from Denmark, Turkey, and Jordan. Their research showed that the mutation was shared among these groups despite their geographic distance.
+
+## Human Variation and Evolution
+
+The mutation responsible for blue eyes was not necessarily beneficial or harmful. It is one example of the natural variation that occurs in the human genome, similar to differences in hair color, freckles, and other physical traits.
+Genetic mutations constantly shape human populations. Some become widespread, while others disappear over time. The mutation associated with blue eyes is an example of how a small change in DNA can remain present in human populations for thousands of years.
+Today, blue eyes serve as a visible reminder of an ancient genetic event that began with one mutation and spread across generations.
+
+## Sources
+
+* Hans Eiberg, Jesper Troelsen, Mette Nielsen, Annemette Mikkelsen, Jonas Mengel-From, Klaus W. Kjaer, Lars Hansen. **"Blue eye color in humans may be caused by a perfectly associated founder mutation in a regulatory element located within the HERC2 gene inhibiting OCA2 expression."** *Human Genetics*, 2008; 123(2): 177-187.
+  DOI: https://doi.org/10.1007/s00439-007-0460-x
+
+* University of Copenhagen. **"Blue-eyed humans have a single, common ancestor."** 2008.
+  https://news.ku.dk/all_news/2008/blue-eyes/
